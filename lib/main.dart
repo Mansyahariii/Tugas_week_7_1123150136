@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:week7/list_view_sparate_horizontal.dart';
 import 'package:week7/sparate_list_view.dart';
 
 void main() => runApp(const MyApp());
@@ -11,7 +12,8 @@ class MyApp extends StatelessWidget {
       title: 'Custom Fonts',
       theme: ThemeData(fontFamily: 'Raleway'),
       // home: const MyHomePage(),
-      home: const SparateListView(),
+      // home: const SparateListView(),
+      home: const SparateListViewHorizontal(),
     );
   }
 }
