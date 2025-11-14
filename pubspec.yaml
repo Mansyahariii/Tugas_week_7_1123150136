@@ -76,22 +76,22 @@ flutter:
   fonts:
     - family: Raleway
       fonts:
-        - asset: fonts/raleway/Raleway-Regular.ttf
-        - asset: fonts/raleway/Raleway-Medium.ttf
+        - asset: assets/fonts/raleway/Raleway-Regular.ttf
+        - asset: assets/fonts/raleway/Raleway-Medium.ttf
           weight: 300
-        - asset: fonts/raleway/Raleway-Bold.ttf
+        - asset: assets/fonts/raleway/Raleway-Bold.ttf
           weight: 700
-        - asset: fonts/raleway/Raleway-Italic.ttf
+        - asset: assets/fonts/raleway/Raleway-Italic.ttf
           style: italic
 
     - family: RobotoMono
       fonts:
-        - asset: fonts/roboto-mono/RobotoMono-Regular.ttf
-        - asset: fonts/roboto-mono/RobotoMono-Medium.ttf
+        - asset: assets/fonts/roboto-mono/RobotoMono-Regular.ttf
+        - asset: assets/fonts/roboto-mono/RobotoMono-Medium.ttf
           weight: 300
-        - asset: fonts/roboto-mono/RobotoMono-Bold.ttf
+        - asset: assets/fonts/roboto-mono/RobotoMono-Bold.ttf
           weight: 700
-        - asset: fonts/roboto-mono/RobotoMono-Italic.ttf
+        - asset: assets/fonts/roboto-mono/RobotoMono-Italic.ttf
           style: italic
 
 
